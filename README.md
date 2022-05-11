@@ -1,10 +1,11 @@
 # Job Offert Test
 
-<img src="https://img.shields.io/github/issues/bracodev/API-Job-Offert-Test?style=for-the-badge&logo=appveyor" />
-<img src="https://img.shields.io/github/forks/bracodev/API-Job-Offert-Test?style=for-the-badge&logo=appveyor" />
-<img src="https://img.shields.io/github/stars/bracodev/API-Job-Offert-Test?style=for-the-badge&logo=appveyor" />
-<img src="https://img.shields.io/github/license/bracodev/API-Job-Offert-Test?style=for-the-badge&logo=appveyor" />
-<img src="https://img.shields.io/github/license/bracodev/API-Job-Offert-Test?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/github/issues/bracodev/API-Job-Offert-Test" /> <img src="https://img.shields.io/github/forks/bracodev/API-Job-Offert-Test" /> <img src="https://img.shields.io/github/stars/bracodev/API-Job-Offert-Test" /> <img src="https://img.shields.io/github/license/bracodev/API-Job-Offert-Test" /> <img src="https://img.shields.io/github/license/bracodev/API-Job-Offert-Test" />
+
+## Sombre mi
+[Visita mi portafolios](http://bracodev.com)
+
+[LinkdIn](https://www.linkedin.com/in/bracodev)
 
 ## Clonar
 ```sh
